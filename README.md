@@ -1,6 +1,6 @@
 # Milous
 
-主要写 Dart 和 Python，最近在做鸿蒙 SDK 的跨版本 API 分析。
+主要写 Dart 和 Python，最近在学习无聊的经济学知识。
 
 ---
 
