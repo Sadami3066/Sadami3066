@@ -1,6 +1,6 @@
 # Milous
 
-我正在学习kotlin, 以及一些经济学知识
+I’ve recently started learning Kotlin—and some boring econ stuff too. lol.
 
 ---
 
